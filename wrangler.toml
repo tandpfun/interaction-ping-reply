@@ -1,0 +1,3 @@
+name = "interaction-ping-reply"
+main = "src/index.ts"
+compatibility_date = "2022-09-10"
